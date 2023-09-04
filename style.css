@@ -1,0 +1,23 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+body{
+    padding-top: 5%;
+    display: grid;
+    place-content:center ;
+}
+
+#cliente{
+    height: 20px;
+    width:350px;
+    margin-bottom: 30px;
+}
+.formu{
+    display: grid;
+    place-content: center;
+    height: 500px;
+    width: 350px;
+    background-color: rgb(255, 197, 91);
+    border: 10px solid rgb(255, 170, 12);
+}
